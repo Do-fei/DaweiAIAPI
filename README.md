@@ -307,12 +307,6 @@ pnpm check
 
 本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
 
-## 📞 联系方式
-
-- 📧 Email：support@dawei-ai.com
-- 🐦 Twitter：[@DaweiAI](https://twitter.com/DaweiAI)
-- 💬 Discord：[加入社区](https://discord.gg/DaweiAI)
-
 ## 🙏 致谢
 
 感谢以下开源项目的支持：
