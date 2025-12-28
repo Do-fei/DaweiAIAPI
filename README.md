@@ -1,7 +1,4 @@
-# 🚀 Dawei AI Platform
-
-<img width="1147" height="1019" alt="image" src="https://github.com/user-attachments/assets/54f7ef35-50d0-446b-a5c4-3d53757c4fcf" />
-
+# 🚀 Dawei AI Platform （爱的发电机：元宝儿）
 
 > 一个功能完整的 AI 服务聚合平台，支持自然语言交互、多模型管理、实时计费和数据可视化
 
